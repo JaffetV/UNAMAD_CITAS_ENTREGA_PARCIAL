@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Fondo circular suave -->
+    <path
+        android:fillColor="#EEF5F1"
+        android:pathData="M100,10m-90,0a90,90 0 1,0 180,0a90,90 0 1,0 -180,0" />
+
+    <!-- Guirnalda / Hojas Verdes Izquierda y Derecha -->
+    <path
+        android:fillColor="#0C5C43"
+        android:pathData="M35,60 C25,90 30,130 55,160 C45,130 40,95 50,65 Z" />
+    <path
+        android:fillColor="#0C5C43"
+        android:pathData="M165,60 C175,90 170,130 145,160 C155,130 160,95 150,65 Z" />
+
+    <!-- Escudo Central - Sol y Rayos (Amarillo y Azul) -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M55,60 C55,40 145,40 145,60 C145,120 55,120 55,60 Z" />
+
+    <!-- Rayos del Sol -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M100,55 L90,100 L100,105 L110,100 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M100,55 L70,95 L80,102 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M100,55 L130,95 L120,102 Z" />
+
+    <!-- Sol Dorado en el centro -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M100,100m-20,0a20,20 0 1,0 40,0a20,20 0 1,0 -40,0" />
+
+    <!-- Libro Abierto Institucional en la base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,125 C80,120 95,125 100,130 C105,125 120,120 135,125 L135,140 C120,135 105,140 100,145 C95,140 80,135 65,140 Z" />
+
+    <path
+        android:strokeColor="#0C5C43"
+        android:strokeWidth="2"
+        android:pathData="M65,125 C80,120 95,125 100,130 C105,125 120,120 135,125 M100,130 L100,145 M65,140 C80,135 95,140 100,145 C105,140 120,135 135,140" />
+
+    <!-- Cinta de Aniversario / Lema V-VII-MM -->
+    <path
+        android:fillColor="#0C5C43"
+        android:pathData="M60,165 Q100,185 140,165 L135,178 Q100,195 65,178 Z" />
+
+    <!-- Estrellas Superiores -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M100,15 L102,21 L108,21 L103,25 L105,31 L100,27 L95,31 L97,25 L92,21 L98,21 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M80,22 L82,27 L87,27 L83,30 L85,35 L80,32 L75,35 L77,30 L73,27 L78,27 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M120,22 L122,27 L127,27 L123,30 L125,35 L120,32 L115,35 L117,30 L113,27 L118,27 Z" />
+
+</vector>
