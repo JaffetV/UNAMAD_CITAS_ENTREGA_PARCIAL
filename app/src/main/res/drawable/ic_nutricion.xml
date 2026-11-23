@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="90dp"
+    android:viewportWidth="120"
+    android:viewportHeight="90">
+    <path
+        android:fillColor="#FFEDD5"
+        android:pathData="M12,0h96a12,12 0,0 1,12 12v66a12,12 0,0 1,-12 12h-96a12,12 0,0 1,-12 -12v-66a12,12 0,0 1,12 -12z" />
+    <!-- Apple -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M42,32c-7,-5 -16,0 -16,10c0,12 10,24 16,24c6,0 16,-12 16,-24c0,-10 -9,-15 -16,-10z" />
+    <path
+        android:fillColor="#15803D"
+        android:pathData="M42,26c2,-4 6,-6 10,-5c-1,4 -5,6 -10,5z" />
+    <!-- Avocado -->
+    <path
+        android:fillColor="#166534"
+        android:pathData="M78,28c-8,0 -14,10 -14,20c0,10 6,18 14,18c8,0 14,-8 14,-18c0,-10 -6,-20 -14,-20z" />
+    <path
+        android:fillColor="#86EFAC"
+        android:pathData="M78,34c-5,0 -9,7 -9,14c0,7 4,12 9,12c5,0 9,-5 9,-12c0,-7 -4,-14 -9,-14z" />
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M78,44a5,5 0,1 0,0,10a5,5 0,1 0,0,-10z" />
+</vector>

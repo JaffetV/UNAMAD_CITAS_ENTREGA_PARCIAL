@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="90dp"
+    android:viewportWidth="120"
+    android:viewportHeight="90">
+    <path
+        android:fillColor="#E6F4EA"
+        android:pathData="M12,0h96a12,12 0,0 1,12 12v66a12,12 0,0 1,-12 12h-96a12,12 0,0 1,-12 -12v-66a12,12 0,0 1,12 -12z" />
+    <!-- Medical kit box -->
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M64,30h34a4,4 0,0 1,4 4v32a4,4 0,0 1,-4 4h-34a4,4 0,0 1,-4 -4v-32a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M77,42h8v4h-8zM79,40h4v8h-4z" />
+    <!-- Stethoscope -->
+    <path
+        android:fillColor="#0D5C3A"
+        android:pathData="M32,22a3,3 0,0 1,3 3v16a13,13 0,0 0,26 0v-16a3,3 0,1 1,6 0v16a19,19 0,0 1,-38 0v-16a3,3 0,0 1,3 -3z" />
+    <path
+        android:fillColor="#137333"
+        android:pathData="M42,57a8,8 0,1 0,16 0a8,8 0,1 0,-16 0z" />
+</vector>

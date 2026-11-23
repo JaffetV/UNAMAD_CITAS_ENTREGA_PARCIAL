@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="90dp"
+    android:viewportWidth="120"
+    android:viewportHeight="90">
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M12,0h96a12,12 0,0 1,12 12v66a12,12 0,0 1,-12 12h-96a12,12 0,0 1,-12 -12v-66a12,12 0,0 1,12 -12z" />
+    <!-- Table -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M44,40a16,12 0,1 0,32,0a16,12 0,1 0,-32,0z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M58,52h4v18h-4z" />
+    <!-- Chairs -->
+    <path
+        android:fillColor="#047857"
+        android:pathData="M32,32a6,6 0,0 1,6,6v16h-4v-10h-4v10h-4v-16a6,6 0,0 1,6,-6z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M88,32a6,6 0,0 1,6,6v16h-4v-10h-4v10h-4v-16a6,6 0,0 1,6,-6z" />
+</vector>
